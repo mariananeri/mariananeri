@@ -5,8 +5,8 @@ I’m @mariananeri<br><br>
 🐶 Bart's human<br>
 🌱 I’m currently learning CSS, JS, PHP and Python. (This is my pixel sandbox)<br><br>
 
-- From Brazil<br>
-- Living in Montreal, QC (since 2018)<br><br>
+:brazil: From Brazil<br>
+:canada: Living in Montreal, QC (since 2018)<br><br>
 
 <h3>More about me: <a href="https://bento.me/mariananeri" target=_blank>bento.me/mariananeri</a><br></h3>
   
